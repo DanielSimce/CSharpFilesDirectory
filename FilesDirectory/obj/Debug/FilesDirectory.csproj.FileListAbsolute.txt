@@ -1,0 +1,6 @@
+C:\Users\Daniel\source\repos\FilesDirectory\FilesDirectory\bin\Debug\FilesDirectory.exe.config
+C:\Users\Daniel\source\repos\FilesDirectory\FilesDirectory\bin\Debug\FilesDirectory.exe
+C:\Users\Daniel\source\repos\FilesDirectory\FilesDirectory\bin\Debug\FilesDirectory.pdb
+C:\Users\Daniel\source\repos\FilesDirectory\FilesDirectory\obj\Debug\FilesDirectory.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\FilesDirectory\FilesDirectory\obj\Debug\FilesDirectory.exe
+C:\Users\Daniel\source\repos\FilesDirectory\FilesDirectory\obj\Debug\FilesDirectory.pdb
